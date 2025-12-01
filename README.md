@@ -41,7 +41,7 @@ If you find this code useful for your research, please cite our paper:
 @article{peng2025,
   title={ZO-ASR: Zeroth-Order Fine-Tuning of Speech Foundation Models without Back-Propagation},
   author={Yuezhang Peng and Yuxin Liu and Yao Li and Sheng Wang and Fei Wen and Xie Chen},
-  journal={arXiv preprint},
+  journal={2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)},
   year={2025}
 }
 
